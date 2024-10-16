@@ -1,2 +1,2 @@
 # Amazonclone
-This is first github
+This is first github.
